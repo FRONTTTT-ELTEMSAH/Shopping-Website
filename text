@@ -1,0 +1,16 @@
+1_ padding header is 20px 80px
+color of links tag is #1a1a1a;
+
+2_ background color of header is #e3e6f3
+3_ box shadow to header is (0 , 0 , 0 , 0.06)
+
+4_ a:hover {
+    #088178
+}
+5_ .primary-text {
+  color: #ff0000ea;
+}
+
+6_ main color is #088178;
+
+7_ shadows ====>   box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.3) ,   box-shadow: 20px 20px 54px rgba(70, 62, 221, 0.1);
